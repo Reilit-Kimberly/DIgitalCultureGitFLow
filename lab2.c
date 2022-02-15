@@ -9,3 +9,4 @@ int main()
     z2=(pow(m, 1./2)-pow(n,1./2))/m;
     printf("%lf %lf", z1,z2);
 }
+//test text
